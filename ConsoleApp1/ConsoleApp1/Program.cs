@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("This is my first change");
+            Console.WriteLine("New Branch change");
         }
     }
 }
